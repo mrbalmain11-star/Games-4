@@ -1,0 +1,6 @@
+{
+  "name": "روليت السيارات الملكية | Car Roulette",
+  "description": "لعبة روليت ومراهنات السيارات المستوحاة من ألعاب كبار الشخصيات مع واجهة تحكم لإدارة الرهانات ومضاعفات حقيقية تصل إلى x100.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
